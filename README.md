@@ -1,5 +1,7 @@
 # Recovery Lab
 
+<img width="3010" height="1634" alt="image" src="https://github.com/user-attachments/assets/9e2f5dfb-8890-4b55-9fd8-7697b0854286" />
+
 An interactive visualization of Cloudflare Agents' chat recovery system. A
 discrete event simulator that lets you watch a chat turn flow through the
 system, inject failures (client disconnect, Durable Object eviction), and see
